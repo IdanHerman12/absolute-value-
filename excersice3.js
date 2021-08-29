@@ -1,5 +1,5 @@
 'use strict';
-const num = 0;
+const num = -300;
 let absolute;
 absolute=Math.sqrt(num*num);
 console.log(absolute);
